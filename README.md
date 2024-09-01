@@ -1,8 +1,8 @@
 # VoiceDraw
 
-![Görsel1](https://github.com/user-attachments/assets/445f86c3-7a39-4bba-a711-a2f5a89102f8)
+![Görsel1](https://github.com/user-attachments/assets/27051b29-fd55-4fb5-8c26-994b5f574c59)
 
-![Görsel2](https://github.com/user-attachments/assets/79b1df27-334f-466a-81cb-a37fddf5b9e4)
+![Adsız tasarım (1)](https://github.com/user-attachments/assets/2157b14e-cd9a-4ae2-914f-0ddbb077be7f)
 
 TR
 
