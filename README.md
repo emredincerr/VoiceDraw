@@ -1,4 +1,4 @@
-# VoiceDraw
+# VoiceDraw: Sesli Çizim
 
 TR
 
